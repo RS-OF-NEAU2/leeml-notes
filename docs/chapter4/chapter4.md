@@ -1,5 +1,5 @@
 ##  回归演示
-代码到放在Regression-Demo.md中，自取哦！
+代码到放在Regression-Demo.md，自取哦！
 
 
 现在假设有10个x_data和y_data，x和y之间的关系是y_data=b+w*x_data。b，w都是参数，是需要学习出来的。现在我们来练习用梯度下降找到b和w。
